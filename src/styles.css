@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+.mfa-row {
+  margin: 1rem auto;
+}
+.mfa-input {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
